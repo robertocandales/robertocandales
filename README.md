@@ -1,8 +1,14 @@
-### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=robertocandales)](https://github.com/anuraghazra/github-readme-stats)
+### Hi there 👋, I am Roberto
+#### Frontend web developer
+![Frontend web developer](https://miro.medium.com/max/2800/0*3iJLQaoQI66YJuQk.jpg)
 
-<!--
-**robertocandales/robertocandales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm so sorry but I'm having a lot of fun  trying to improve my skills and GitHub profile
+
+Skills:  REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
 
 
--->
+
+
+
