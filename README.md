@@ -1,6 +1,6 @@
-### Hi there 👋, I am Roberto
+### Hi there 👋, Frontend web developer
 #### Frontend web developer
-![Frontend web developer](https://i.dlpng.com/static/png/390169_preview.png)
+![Frontend web developer](https://newitsystems.co.nz/i111.jpg)
 
 I'm so sorry but I'm having a lot of fun  trying to improve my skills and GitHub profile too
 
