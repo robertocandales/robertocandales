@@ -9,7 +9,7 @@
 ## Skills and Experience
 * :atom_symbol: React / Next.js / Redux / Context API
 * :iphone: React Native
-* :back: :end: Node.js / Express / Firebase / Firestore / NoSQL	
+* :back: :end: /Node.js / Express / Firebase / Firestore / NoSQL / API REST
 * :computer: HTML, CSS, JS
 
 
