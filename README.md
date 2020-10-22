@@ -7,10 +7,10 @@
 ### I'm so sorry but I'm having a lot of fun  trying to improve my skills and GitHub profile too :muscle:
 
 ## Skills and Experience
-* :atom_symbol: React / Next.js / Redux / Context API
+* :atom_symbol: React / Next.js / Redux / Context API / Hooks
 * :iphone: React Native
 * :back: :end: /Node.js / Express / Firebase / Firestore / NoSQL / API REST
-* :computer: HTML, CSS, JS
+* :computer: HTML, CSS, JS / UI frameworks
 
 
 
