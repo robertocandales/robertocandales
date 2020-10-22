@@ -1,5 +1,5 @@
 
-# Frontend web developer 👋
+# Fullstack web developer 👋
 
 ## I am currently working with the MERN stack 
 
@@ -7,7 +7,7 @@
 ### I'm so sorry but I'm having a lot of fun  trying to improve my skills and GitHub profile too
 
 ## Skills and Experience
-* :atom_symbol: React / Next.js
+* :atom_symbol: React / Next.js / Redux / Context API
 * :iphone: React Native
 * :back: :end: Node.js / Express / Firebase / Firestore / NoSQL	
 * :computer: HTML, CSS, JS
