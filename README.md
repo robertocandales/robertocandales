@@ -10,7 +10,7 @@
 * :atom_symbol: React / Next.js / Redux / Context API / Hooks
 * :iphone: React Native
 * :back: :end: Node.js / Express / Firebase / Firestore / NoSQL / API REST
-* :computer: HTML, CSS, JS / UI frameworks
+* :computer: HTML, CSS, JS, TS / UI frameworks
 
 
 
