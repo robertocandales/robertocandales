@@ -12,6 +12,6 @@
 * :computer: HTML, CSS, JS, TS / UI frameworks
 
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocandales&show_icons=true&theme=radical)
 
 
