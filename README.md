@@ -1,5 +1,5 @@
 
-# software engineer / Fullstack web / mobile developer 👋
+# Software Engineer / Fullstack web / mobile developer 👋
 
 ## I am currently working with :atom_symbol: React ecosystem stack 
 
