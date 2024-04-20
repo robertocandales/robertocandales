@@ -1,10 +1,23 @@
-# Hello, I'm Roberto! 👋
+# Hi there, I'm Roberto! 👋
 
-### Senior Software Engineer / Fullstack Web & Mobile Engineer
+### Electrical Engineer turned Fullstack Web & Mobile Engineer
 
-With a passion for building scalable web and mobile applications, I specialize in the React ecosystem. Leveraging advanced technologies like React.js, Next.js, and React Native, I deliver exceptional user experiences enhanced by sophisticated and responsive interfaces crafted with HTML, CSS, and modern preprocessors like Tailwind CSS. My proficiency extends to robust backend solutions using Node.js and implementing complex APIs with GraphQL and REST. My strong foundation in JavaScript, enriched by TypeScript, ensures reliable, maintainable, and scalable code. With a focus on both performance and aesthetics, I am dedicated to engineering intuitive user interfaces using Material UI, demonstrating my comprehensive command over full-stack development.
+I'm passionate about crafting scalable web and mobile applications with a focus on delivering exceptional user experiences. With a background in Electrical Engineering and years of experience in software development, I bring a unique blend of technical expertise and problem-solving skills to every project.
+
+## 🚀 Expertise
+
+My specialization lies in the React ecosystem, where I leverage cutting-edge technologies to create innovative solutions. Here's what I bring to the table:
+
+- **Frontend Mastery**: Proficient in React.js, Next.js, and React Native, I excel at building sophisticated and responsive interfaces that captivate users and drive engagement.
+  
+- **Backend Brilliance**: My expertise extends to the backend, where I craft robust solutions using Node.js. I'm skilled in designing and implementing complex APIs with GraphQL and REST, ensuring seamless communication between frontend and backend systems.
+  
+- **Fullstack Prowess**: With a solid foundation in HTML, CSS, JavaScript, and TypeScript, I develop maintainable, scalable, and performant code that meets the highest standards of quality and reliability.
+  
+- **UI/UX Focus**: I prioritize user experience and interface design, utilizing tools like Material UI and Tailwind CSS to engineer intuitive and visually stunning UIs.
 
 ## 🔧 Technologies & Tools
+
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=61DAFB&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Next.js-informational?style=flat&logo=next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=react&logoColor=61DAFB&color=2bbc8a)
@@ -13,19 +26,17 @@ With a passion for building scalable web and mobile applications, I specialize i
 ![](https://img.shields.io/badge/API-REST-informational?style=flat&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/UI-Material_UI-informational?style=flat&logo=material-ui&logoColor=0081CB&color=2bbc8a)
 
-## 📊 My GitHub Stats
+## 📊 GitHub Stats & Achievements
 
 ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocandales&show_icons=true&theme=radical)
-
-## 🏆 GitHub Achievements
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=robertocandales&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph & Blog Posts
 
 ![Roberto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=robertocandales&theme=xcode)
 
 ### 📝 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [Optimizing React Apps for Performance](#)
 - [Building Scalable API with GraphQL](#)
@@ -34,5 +45,5 @@ With a passion for building scalable web and mobile applications, I specialize i
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/robertocandales)!
+Let's connect on [LinkedIn](https://www.linkedin.com/in/robertocandales) to discuss opportunities!
 
