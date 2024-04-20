@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer / Fullstack Web & Mobile Engineer
 
-With a passion for building scalable web and mobile applications, I specialize in the React ecosystem. Leveraging modern technologies like React.js, Next.js, and React Native, I deliver exceptional user experiences and robust backend solutions using Node.js. My expertise extends to implementing complex APIs with GraphQL and REST, and designing intuitive UIs with Material UI.
+With a passion for building scalable web and mobile applications, I specialize in the React ecosystem. Leveraging advanced technologies like React.js, Next.js, and React Native, I deliver exceptional user experiences enhanced by sophisticated and responsive interfaces crafted with HTML, CSS, and modern preprocessors like Tailwind CSS. My proficiency extends to robust backend solutions using Node.js and implementing complex APIs with GraphQL and REST. My strong foundation in JavaScript, enriched by TypeScript, ensures reliable, maintainable, and scalable code. With a focus on both performance and aesthetics, I am dedicated to engineering intuitive user interfaces using Material UI, demonstrating my comprehensive command over full-stack development.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/Code-React.js-informational?style=flat&logo=react&logoColor=61DAFB&color=2bbc8a)
