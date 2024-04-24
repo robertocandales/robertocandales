@@ -35,15 +35,5 @@ My specialization lies in the React ecosystem, where I leverage cutting-edge tec
 
 ![Roberto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=robertocandales&theme=xcode)
 
-### 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Optimizing React Apps for Performance](#)
-- [Building Scalable API with GraphQL](#)
-- [State Management in React with Redux and Context API](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-Let's connect on [LinkedIn](https://www.linkedin.com/in/robertocandales) to discuss opportunities!
 
