@@ -31,9 +31,3 @@ My specialization lies in the React ecosystem, where I leverage cutting-edge tec
 ![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertocandales&show_icons=true&theme=radical)
 [![trophy](https://github-profile-trophy.vercel.app/?username=robertocandales&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 Contribution Graph & Blog Posts
-
-![Roberto's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=robertocandales&theme=xcode)
-
-
-
